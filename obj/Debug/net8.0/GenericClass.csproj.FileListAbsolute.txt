@@ -1,0 +1,15 @@
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/bin/Debug/net8.0/GenericClass
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/bin/Debug/net8.0/GenericClass.deps.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/bin/Debug/net8.0/GenericClass.runtimeconfig.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/bin/Debug/net8.0/GenericClass.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/bin/Debug/net8.0/GenericClass.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.GeneratedMSBuildEditorConfig.editorconfig
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.AssemblyInfoInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.AssemblyInfo.cs
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.csproj.CoreCompileInputs.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.sourcelink.json
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/refint/GenericClass.dll
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.pdb
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/GenericClass.genruntimeconfig.cache
+/Users/csillagcsaba/Desktop/Petrikes/Asztali_Mariann/GenericClass/obj/Debug/net8.0/ref/GenericClass.dll
