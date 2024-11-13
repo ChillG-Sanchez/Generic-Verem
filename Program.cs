@@ -4,7 +4,6 @@ class Program
 {
     static void Main()
     {
-        // Szám típusú verem
         Verem<int> szamVerem = new Verem<int>();
         szamVerem.Push(10);
         szamVerem.Push(20);
@@ -16,7 +15,6 @@ class Program
         Console.WriteLine($"IsEmpty: {szamVerem.IsEmpty}");
         Console.WriteLine(szamVerem.ToString());
 
-        // Szöveg típusú verem
         Verem<string> szovegVerem = new Verem<string>();
         szovegVerem.Push("Első");
         szovegVerem.Push("Második");
@@ -28,7 +26,6 @@ class Program
         Console.WriteLine($"IsEmpty: {szovegVerem.IsEmpty}");
         Console.WriteLine(szovegVerem.ToString());
 
-        // Ember típusú verem
         Verem<Ember> emberVerem = new Verem<Ember>();
         emberVerem.Push(new Ember { Nev = "János", Kor = 30 });
         emberVerem.Push(new Ember { Nev = "Anna", Kor = 25 });
